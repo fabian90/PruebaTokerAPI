@@ -1,0 +1,15 @@
+C:\Users\rvt_r\OneDrive\Documents\Visual Studio 2022\Toker\Toker.Core\bin\Debug\net6.0\Toker.Core.deps.json
+C:\Users\rvt_r\OneDrive\Documents\Visual Studio 2022\Toker\Toker.Core\bin\Debug\net6.0\Toker.Core.dll
+C:\Users\rvt_r\OneDrive\Documents\Visual Studio 2022\Toker\Toker.Core\bin\Debug\net6.0\Toker.Core.pdb
+C:\Users\rvt_r\OneDrive\Documents\Visual Studio 2022\Toker\Toker.Core\bin\Debug\net6.0\Commons.dll
+C:\Users\rvt_r\OneDrive\Documents\Visual Studio 2022\Toker\Toker.Core\bin\Debug\net6.0\Commons.pdb
+C:\Users\rvt_r\OneDrive\Documents\Visual Studio 2022\Toker\Toker.Core\obj\Debug\net6.0\Toker.Core.csproj.AssemblyReference.cache
+C:\Users\rvt_r\OneDrive\Documents\Visual Studio 2022\Toker\Toker.Core\obj\Debug\net6.0\Toker.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rvt_r\OneDrive\Documents\Visual Studio 2022\Toker\Toker.Core\obj\Debug\net6.0\Toker.Core.AssemblyInfoInputs.cache
+C:\Users\rvt_r\OneDrive\Documents\Visual Studio 2022\Toker\Toker.Core\obj\Debug\net6.0\Toker.Core.AssemblyInfo.cs
+C:\Users\rvt_r\OneDrive\Documents\Visual Studio 2022\Toker\Toker.Core\obj\Debug\net6.0\Toker.Core.csproj.CoreCompileInputs.cache
+C:\Users\rvt_r\OneDrive\Documents\Visual Studio 2022\Toker\Toker.Core\obj\Debug\net6.0\Toker.Core.csproj.Up2Date
+C:\Users\rvt_r\OneDrive\Documents\Visual Studio 2022\Toker\Toker.Core\obj\Debug\net6.0\Toker.Core.dll
+C:\Users\rvt_r\OneDrive\Documents\Visual Studio 2022\Toker\Toker.Core\obj\Debug\net6.0\refint\Toker.Core.dll
+C:\Users\rvt_r\OneDrive\Documents\Visual Studio 2022\Toker\Toker.Core\obj\Debug\net6.0\Toker.Core.pdb
+C:\Users\rvt_r\OneDrive\Documents\Visual Studio 2022\Toker\Toker.Core\obj\Debug\net6.0\ref\Toker.Core.dll

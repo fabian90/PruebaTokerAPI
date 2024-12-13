@@ -1,0 +1,12 @@
+C:\Users\rvt_r\OneDrive\Documents\Visual Studio 2022\Toker\Commons\bin\Debug\net6.0\Commons.deps.json
+C:\Users\rvt_r\OneDrive\Documents\Visual Studio 2022\Toker\Commons\bin\Debug\net6.0\Commons.dll
+C:\Users\rvt_r\OneDrive\Documents\Visual Studio 2022\Toker\Commons\bin\Debug\net6.0\Commons.pdb
+C:\Users\rvt_r\OneDrive\Documents\Visual Studio 2022\Toker\Commons\obj\Debug\net6.0\Commons.csproj.AssemblyReference.cache
+C:\Users\rvt_r\OneDrive\Documents\Visual Studio 2022\Toker\Commons\obj\Debug\net6.0\Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rvt_r\OneDrive\Documents\Visual Studio 2022\Toker\Commons\obj\Debug\net6.0\Commons.AssemblyInfoInputs.cache
+C:\Users\rvt_r\OneDrive\Documents\Visual Studio 2022\Toker\Commons\obj\Debug\net6.0\Commons.AssemblyInfo.cs
+C:\Users\rvt_r\OneDrive\Documents\Visual Studio 2022\Toker\Commons\obj\Debug\net6.0\Commons.csproj.CoreCompileInputs.cache
+C:\Users\rvt_r\OneDrive\Documents\Visual Studio 2022\Toker\Commons\obj\Debug\net6.0\Commons.dll
+C:\Users\rvt_r\OneDrive\Documents\Visual Studio 2022\Toker\Commons\obj\Debug\net6.0\refint\Commons.dll
+C:\Users\rvt_r\OneDrive\Documents\Visual Studio 2022\Toker\Commons\obj\Debug\net6.0\Commons.pdb
+C:\Users\rvt_r\OneDrive\Documents\Visual Studio 2022\Toker\Commons\obj\Debug\net6.0\ref\Commons.dll
