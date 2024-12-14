@@ -9,11 +9,18 @@ using Toker.Core.Interfaces.Services;
 using Toker.Core.Services;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Swashbuckle.AspNetCore.Annotations;
+using Swashbuckle.AspNetCore.SwaggerGen;
 
-namespace Identity.API.Controllers
+
+
+namespace Toker.API.Controllers
 {
+
     [ApiController]
     [Route("api/[controller]")]
+    [ApiExplorerSettings(GroupName = "v1")]
+
     public class EmployeeController : ControllerBase
     {
         private readonly IEmployeeService _employeeService;
@@ -30,6 +37,7 @@ namespace Identity.API.Controllers
             _validatorCreate = validatorCreate;
         }
         [Authorize(Policy = "RequireAdminRole")]
+        [SwaggerOperation(Tags = new[] { "Empleado" })]
         [HttpPost]
         public async Task<IActionResult> Post([FromBody] EmployeeRequestDTOCreate request)
         {

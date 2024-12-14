@@ -9,7 +9,7 @@ using Toker.Core.Interfaces.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Authorization;
 
-namespace Identity.API.Controllers
+namespace Toker.API.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]

@@ -8,7 +8,7 @@ using Toker.Core.Entities;
 using Toker.Core.Interfaces.Services;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Identity.API.Controllers
+namespace Toker.API.Controllers
 {
     [ApiController]
     //[Produces("application/json")]

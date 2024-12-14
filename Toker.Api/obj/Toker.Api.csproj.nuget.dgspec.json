@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rvt_r\\OneDrive\\Documents\\Visual Studio 2022\\Toker\\Toker.Api\\Toker.Api.csproj": {}
+    "c:\\Users\\rvt_r\\Documents\\Visual Studio 2022\\Toker\\Toker.Api\\Toker.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rvt_r\\OneDrive\\Documents\\Visual Studio 2022\\Toker\\Commons\\Commons.csproj": {
+    "c:\\Users\\rvt_r\\Documents\\Visual Studio 2022\\Toker\\Commons\\Commons.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rvt_r\\OneDrive\\Documents\\Visual Studio 2022\\Toker\\Commons\\Commons.csproj",
+        "projectUniqueName": "c:\\Users\\rvt_r\\Documents\\Visual Studio 2022\\Toker\\Commons\\Commons.csproj",
         "projectName": "Commons",
-        "projectPath": "C:\\Users\\rvt_r\\OneDrive\\Documents\\Visual Studio 2022\\Toker\\Commons\\Commons.csproj",
+        "projectPath": "c:\\Users\\rvt_r\\Documents\\Visual Studio 2022\\Toker\\Commons\\Commons.csproj",
         "packagesPath": "C:\\Users\\rvt_r\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rvt_r\\OneDrive\\Documents\\Visual Studio 2022\\Toker\\Commons\\obj\\",
+        "outputPath": "c:\\Users\\rvt_r\\Documents\\Visual Studio 2022\\Toker\\Commons\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\rvt_r\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -66,6 +68,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -75,22 +91,24 @@
         }
       }
     },
-    "C:\\Users\\rvt_r\\OneDrive\\Documents\\Visual Studio 2022\\Toker\\Toker.Api\\Toker.Api.csproj": {
+    "c:\\Users\\rvt_r\\Documents\\Visual Studio 2022\\Toker\\Toker.Api\\Toker.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rvt_r\\OneDrive\\Documents\\Visual Studio 2022\\Toker\\Toker.Api\\Toker.Api.csproj",
+        "projectUniqueName": "c:\\Users\\rvt_r\\Documents\\Visual Studio 2022\\Toker\\Toker.Api\\Toker.Api.csproj",
         "projectName": "Toker.Api",
-        "projectPath": "C:\\Users\\rvt_r\\OneDrive\\Documents\\Visual Studio 2022\\Toker\\Toker.Api\\Toker.Api.csproj",
+        "projectPath": "c:\\Users\\rvt_r\\Documents\\Visual Studio 2022\\Toker\\Toker.Api\\Toker.Api.csproj",
         "packagesPath": "C:\\Users\\rvt_r\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rvt_r\\OneDrive\\Documents\\Visual Studio 2022\\Toker\\Toker.Api\\obj\\",
+        "outputPath": "c:\\Users\\rvt_r\\Documents\\Visual Studio 2022\\Toker\\Toker.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\rvt_r\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -104,14 +122,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\rvt_r\\OneDrive\\Documents\\Visual Studio 2022\\Toker\\Commons\\Commons.csproj": {
-                "projectPath": "C:\\Users\\rvt_r\\OneDrive\\Documents\\Visual Studio 2022\\Toker\\Commons\\Commons.csproj"
+              "c:\\Users\\rvt_r\\Documents\\Visual Studio 2022\\Toker\\Commons\\Commons.csproj": {
+                "projectPath": "c:\\Users\\rvt_r\\Documents\\Visual Studio 2022\\Toker\\Commons\\Commons.csproj"
               },
-              "C:\\Users\\rvt_r\\OneDrive\\Documents\\Visual Studio 2022\\Toker\\Toker.Core\\Toker.Core.csproj": {
-                "projectPath": "C:\\Users\\rvt_r\\OneDrive\\Documents\\Visual Studio 2022\\Toker\\Toker.Core\\Toker.Core.csproj"
+              "c:\\Users\\rvt_r\\Documents\\Visual Studio 2022\\Toker\\Toker.Core\\Toker.Core.csproj": {
+                "projectPath": "c:\\Users\\rvt_r\\Documents\\Visual Studio 2022\\Toker\\Toker.Core\\Toker.Core.csproj"
               },
-              "C:\\Users\\rvt_r\\OneDrive\\Documents\\Visual Studio 2022\\Toker\\Toker.Infrastructure\\Toker.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\rvt_r\\OneDrive\\Documents\\Visual Studio 2022\\Toker\\Toker.Infrastructure\\Toker.Infrastructure.csproj"
+              "c:\\Users\\rvt_r\\Documents\\Visual Studio 2022\\Toker\\Toker.Infrastructure\\Toker.Infrastructure.csproj": {
+                "projectPath": "c:\\Users\\rvt_r\\Documents\\Visual Studio 2022\\Toker\\Toker.Infrastructure\\Toker.Infrastructure.csproj"
               }
             }
           }
@@ -135,6 +153,10 @@
               "target": "Package",
               "version": "[12.0.0, )"
             },
+            "BenchmarkDotNet": {
+              "target": "Package",
+              "version": "[0.14.0, )"
+            },
             "FluentValidation.AspNetCore": {
               "target": "Package",
               "version": "[11.2.2, )"
@@ -156,6 +178,14 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "prometheus-net": {
+              "target": "Package",
+              "version": "[8.2.1, )"
             }
           },
           "imports": [
@@ -169,6 +199,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.33, 6.0.33]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -181,22 +229,24 @@
         }
       }
     },
-    "C:\\Users\\rvt_r\\OneDrive\\Documents\\Visual Studio 2022\\Toker\\Toker.Core\\Toker.Core.csproj": {
+    "c:\\Users\\rvt_r\\Documents\\Visual Studio 2022\\Toker\\Toker.Core\\Toker.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rvt_r\\OneDrive\\Documents\\Visual Studio 2022\\Toker\\Toker.Core\\Toker.Core.csproj",
+        "projectUniqueName": "c:\\Users\\rvt_r\\Documents\\Visual Studio 2022\\Toker\\Toker.Core\\Toker.Core.csproj",
         "projectName": "Toker.Core",
-        "projectPath": "C:\\Users\\rvt_r\\OneDrive\\Documents\\Visual Studio 2022\\Toker\\Toker.Core\\Toker.Core.csproj",
+        "projectPath": "c:\\Users\\rvt_r\\Documents\\Visual Studio 2022\\Toker\\Toker.Core\\Toker.Core.csproj",
         "packagesPath": "C:\\Users\\rvt_r\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rvt_r\\OneDrive\\Documents\\Visual Studio 2022\\Toker\\Toker.Core\\obj\\",
+        "outputPath": "c:\\Users\\rvt_r\\Documents\\Visual Studio 2022\\Toker\\Toker.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\rvt_r\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -210,8 +260,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\rvt_r\\OneDrive\\Documents\\Visual Studio 2022\\Toker\\Commons\\Commons.csproj": {
-                "projectPath": "C:\\Users\\rvt_r\\OneDrive\\Documents\\Visual Studio 2022\\Toker\\Commons\\Commons.csproj"
+              "c:\\Users\\rvt_r\\Documents\\Visual Studio 2022\\Toker\\Commons\\Commons.csproj": {
+                "projectPath": "c:\\Users\\rvt_r\\Documents\\Visual Studio 2022\\Toker\\Commons\\Commons.csproj"
               }
             }
           }
@@ -259,6 +309,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -268,22 +332,24 @@
         }
       }
     },
-    "C:\\Users\\rvt_r\\OneDrive\\Documents\\Visual Studio 2022\\Toker\\Toker.Infrastructure\\Toker.Infrastructure.csproj": {
+    "c:\\Users\\rvt_r\\Documents\\Visual Studio 2022\\Toker\\Toker.Infrastructure\\Toker.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rvt_r\\OneDrive\\Documents\\Visual Studio 2022\\Toker\\Toker.Infrastructure\\Toker.Infrastructure.csproj",
+        "projectUniqueName": "c:\\Users\\rvt_r\\Documents\\Visual Studio 2022\\Toker\\Toker.Infrastructure\\Toker.Infrastructure.csproj",
         "projectName": "Toker.Infrastructure",
-        "projectPath": "C:\\Users\\rvt_r\\OneDrive\\Documents\\Visual Studio 2022\\Toker\\Toker.Infrastructure\\Toker.Infrastructure.csproj",
+        "projectPath": "c:\\Users\\rvt_r\\Documents\\Visual Studio 2022\\Toker\\Toker.Infrastructure\\Toker.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\rvt_r\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rvt_r\\OneDrive\\Documents\\Visual Studio 2022\\Toker\\Toker.Infrastructure\\obj\\",
+        "outputPath": "c:\\Users\\rvt_r\\Documents\\Visual Studio 2022\\Toker\\Toker.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\rvt_r\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -297,8 +363,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\rvt_r\\OneDrive\\Documents\\Visual Studio 2022\\Toker\\Toker.Core\\Toker.Core.csproj": {
-                "projectPath": "C:\\Users\\rvt_r\\OneDrive\\Documents\\Visual Studio 2022\\Toker\\Toker.Core\\Toker.Core.csproj"
+              "c:\\Users\\rvt_r\\Documents\\Visual Studio 2022\\Toker\\Toker.Core\\Toker.Core.csproj": {
+                "projectPath": "c:\\Users\\rvt_r\\Documents\\Visual Studio 2022\\Toker\\Toker.Core\\Toker.Core.csproj"
               }
             }
           }
@@ -348,6 +414,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

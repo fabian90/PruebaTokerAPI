@@ -8,7 +8,7 @@ namespace Toker.Infrastructure.Data.Configurations
     {
         public void Configure(EntityTypeBuilder<User> builder)
         {
-            builder.ToTable("User", "Security");
+            builder.ToTable("User", "dbo");
 
             builder.HasKey(e => e.Id);
 

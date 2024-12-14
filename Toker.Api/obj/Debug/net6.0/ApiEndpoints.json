@@ -31,7 +31,7 @@
     ]
   },
   {
-    "ContainingType": "Identity.API.Controllers.EmployeeController",
+    "ContainingType": "Toker.API.Controllers.EmployeeController",
     "Method": "Post",
     "RelativePath": "api/Employee",
     "HttpMethod": "POST",
@@ -47,7 +47,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Identity.API.Controllers.EmployeeController",
+    "ContainingType": "Toker.API.Controllers.EmployeeController",
     "Method": "Put",
     "RelativePath": "api/Employee",
     "HttpMethod": "PUT",
@@ -63,7 +63,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Identity.API.Controllers.EmployeeController",
+    "ContainingType": "Toker.API.Controllers.EmployeeController",
     "Method": "Get",
     "RelativePath": "api/Employee",
     "HttpMethod": "GET",
@@ -109,7 +109,7 @@
     ]
   },
   {
-    "ContainingType": "Identity.API.Controllers.EmployeeController",
+    "ContainingType": "Toker.API.Controllers.EmployeeController",
     "Method": "Delete",
     "RelativePath": "api/Employee/{id}",
     "HttpMethod": "DELETE",
@@ -125,7 +125,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Identity.API.Controllers.EmployeeController",
+    "ContainingType": "Toker.API.Controllers.EmployeeController",
     "Method": "GetEntity",
     "RelativePath": "api/Employee/{id}",
     "HttpMethod": "GET",
@@ -151,7 +151,7 @@
     ]
   },
   {
-    "ContainingType": "Identity.API.Controllers.EntityController",
+    "ContainingType": "Toker.API.Controllers.EntityController",
     "Method": "Post",
     "RelativePath": "api/Entity",
     "HttpMethod": "POST",
@@ -167,7 +167,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Identity.API.Controllers.EntityController",
+    "ContainingType": "Toker.API.Controllers.EntityController",
     "Method": "Put",
     "RelativePath": "api/Entity",
     "HttpMethod": "PUT",
@@ -183,7 +183,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Identity.API.Controllers.EntityController",
+    "ContainingType": "Toker.API.Controllers.EntityController",
     "Method": "Get",
     "RelativePath": "api/Entity",
     "HttpMethod": "GET",
@@ -229,7 +229,7 @@
     ]
   },
   {
-    "ContainingType": "Identity.API.Controllers.EntityController",
+    "ContainingType": "Toker.API.Controllers.EntityController",
     "Method": "Delete",
     "RelativePath": "api/Entity/{id}",
     "HttpMethod": "DELETE",
@@ -245,7 +245,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Identity.API.Controllers.EntityController",
+    "ContainingType": "Toker.API.Controllers.EntityController",
     "Method": "GetEntity",
     "RelativePath": "api/Entity/{id}",
     "HttpMethod": "GET",
@@ -271,7 +271,7 @@
     ]
   },
   {
-    "ContainingType": "Identity.API.Controllers.UserController",
+    "ContainingType": "Toker.API.Controllers.UserController",
     "Method": "Post",
     "RelativePath": "api/User",
     "HttpMethod": "POST",
@@ -287,7 +287,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Identity.API.Controllers.UserController",
+    "ContainingType": "Toker.API.Controllers.UserController",
     "Method": "Put",
     "RelativePath": "api/User",
     "HttpMethod": "PUT",
@@ -303,7 +303,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Identity.API.Controllers.UserController",
+    "ContainingType": "Toker.API.Controllers.UserController",
     "Method": "Get",
     "RelativePath": "api/User",
     "HttpMethod": "GET",
@@ -349,7 +349,7 @@
     ]
   },
   {
-    "ContainingType": "Identity.API.Controllers.UserController",
+    "ContainingType": "Toker.API.Controllers.UserController",
     "Method": "Delete",
     "RelativePath": "api/User/{id}",
     "HttpMethod": "DELETE",
